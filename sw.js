@@ -1,4 +1,4 @@
-const CACHE = 'target-60-v2';
+const CACHE = 'target-60-v3';
 const CORE = ['./', './manifest.webmanifest', './icons/target-60-192.png', './icons/target-60-512.png'];
 
 self.addEventListener('install', event => {
